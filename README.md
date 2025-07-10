@@ -1,6 +1,9 @@
 # Chapter3_HW6
 내일배움캠프 Chapter3 과제6번 제출용 저장소
 
+[채점 자가진단 (블로그 글, 클릭시 이동)](https://15danpancake.atlassian.net/wiki/spaces/cdg1212/pages/67960866/Chapter+3+6#%EC%B1%84%EC%A0%90-%EC%9E%90%EA%B0%80%EC%A7%84%EB%8B%A8)
+
+
 ## Youtube
 [![ALTTEXT](https://img.youtube.com/vi/wkfo8naCIzA/0.jpg)](https://www.youtube.com/watch?v=wkfo8naCIzA)
 
